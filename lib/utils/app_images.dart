@@ -1,0 +1,30 @@
+String basePath = "assets/images";
+String basePathIcons = "assets/icons";
+String baseCompanyPath = "assets/company";
+
+///IMAGES
+String kAppLogo = "$basePath/app_logo.png";
+String kHome = "$basePath/home.png";
+String kdialogimage = "$basePath/dialogimage.png";
+String kpatientloginpic = "$basePath/Loginpic.png";
+String kfacebookimage = "$basePath/facebook.png";
+String ktwitterimage = "$basePath/twitter.png";
+String kinstagramimage = "$basePath/instagram.png";
+String kprovidersignupimage = "$basePath/providersignup.png";
+String kproviderpasswordimage = "$basePath/providerpswrdimg.png";
+String kconfirmemailimage = "$basePath/confirmemail.png";
+String kpatientsignupimg = "$basePath/patientsignupimg.png";
+String kdetectimage = "$basePath/detect.png";
+String kdoctorimg = "$basePath/doctor1.png";
+String kaddimg = "$basePath/add.png";
+String kvdimg = "$basePath/vd.png";
+String kbookingimg1 = "$basePath/bookingwidget1.png";
+String klogo1 = "$basePath/image 9.png";
+String klogo2 = "$basePath/image 10.png";
+String klogo3 = "$basePath/image 11.png";
+String klogo4 = "$basePath/image 12.png";
+String khospitalimage = "$basePath/hospitalimage.png";
+String kwelcomeimage = "$basePath/welcome.png";
+String kmarkimg = "$basePath/mark.png";
+String klookupimg = "$basePath/lookup.png";
+String kimgpicker = "$basePath/imgpicker.png";
