@@ -235,11 +235,14 @@ class PerformanceScreen extends GetView<PerformanceController> {
                                       padding: const EdgeInsets.all(20.0),
                                       child: Align(
                                         alignment: Alignment.bottomRight,
-                                        child: Container(
-                                          width: 220.29,
-                                          height: 75.79,
-                                          decoration: BoxDecoration(
-                                              color: Color(0xFF4D91A8)),
+                                        child: GestureDetector(
+                                          onTap: () {},
+                                          child: Container(
+                                            width: 220.29,
+                                            height: 75.79,
+                                            decoration: BoxDecoration(
+                                                color: Color(0xFF4D91A8)),
+                                          ),
                                         ),
                                       ),
                                     )
